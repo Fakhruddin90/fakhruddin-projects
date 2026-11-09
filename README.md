@@ -26,4 +26,4 @@ This index lists the projects I've built, grouped by area. Each one links to its
 
 ---
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/fakhruddin-mohamad-saupe-a49b8367/).
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/fakhruddin-m-a49b8367/).
